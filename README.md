@@ -1,2 +1,3 @@
 # JPPraiseButton
-仿今日头条的点赞效果的Demo
+
+类似今日头条点赞效果的Demo
